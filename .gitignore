@@ -1,0 +1,14 @@
+# windows
+*.exe
+
+# mac
+.DS_Store
+
+# gcc
+*.gch
+a.out
+
+# ide
+.idea/
+.vscode/
+.vs/
