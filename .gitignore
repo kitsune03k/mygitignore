@@ -12,3 +12,4 @@ a.out
 .idea/
 .vscode/
 .vs/
+*.dSYM
