@@ -10,6 +10,4 @@ a.out
 
 # ide
 .idea/
-.vscode/
-.vs/
 *.dSYM
