@@ -10,4 +10,7 @@ a.out
 
 # ide
 .idea/
-*.dSYM
+*.dSYM/
+
+# executable
+*
